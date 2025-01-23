@@ -24,9 +24,9 @@ public class Array2 {
                 }
             }
         }
-        System.out.print("Merged sorted array: ");
+        System.out.print("Merged array: ");
         for (int p=0; p<=arr3; p++) {
-            System.out.print(num + " ");
+            System.out.print();
         }
 
     }
